@@ -1,0 +1,113 @@
+.head {
+margin-left: 80px;
+font-size: 20px;
+height: 120px;
+
+
+
+}
+
+.experience{
+    margin-left: 80px;
+    
+}
+
+.experience span{
+    font-family: "Times New Roman", Times, serif;
+}
+
+.experience h6 {
+    color: blue;
+    font-size: 15px;
+    height: 20px;
+    
+}
+
+.education {
+    margin-left: 80px;
+}
+.education h6{
+    color: blue;
+    font-size: 15px;
+    height: 20px;
+}
+
+.education span{
+    font-family: "Times New Roman", Times, serif;
+}
+
+.projects{
+    margin-left: 80px;
+}
+
+.projects h6{
+    color: blue;
+    font-size: 15px;
+    height: 20px;
+}
+
+.projects span{
+    font-family: "Times New Roman", Times, serif;
+}
+
+.address{
+   
+   position: absolute;
+    right: 700px;
+    top: 54px;
+   
+}
+
+.skills {
+    position: absolute;
+    right: 500px;
+    top: 170px;
+}
+
+.skills h6{
+    color: blue;
+    font-size: 15px;
+    height: 20px;
+}
+
+.skills span {
+    font-family: "Times New Roman", Times, serif;
+    width: 10px;
+    height: 10px;
+}
+
+.awards {
+    position: absolute;
+    right: 450px;
+    top: 400px;
+}
+
+.awards h6{
+    color: blue;
+    font-size: 15px;
+    height: 20px;
+}
+
+.awards span{
+    font-family: "Times New Roman", Times, serif;
+    width: 10px;
+    height: 10px;
+}
+
+.language{
+    position: absolute;
+    right: 650px;
+    top: 700px;
+}
+
+.language h6{
+    color: blue;
+    font-size: 15px;
+    height: 20px;
+}
+
+.language span {
+    font-family: "Times New Roman", Times, serif;
+    width: 10px;
+    height: 10px;   
+}
